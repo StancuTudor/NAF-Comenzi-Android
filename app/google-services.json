@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "472784497397",
+    "firebase_url": "https://proiectandroid-befcf-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "proiectandroid-befcf",
+    "storage_bucket": "proiectandroid-befcf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:472784497397:android:a9530630ee1990ab0ff3bc",
+        "android_client_info": {
+          "package_name": "com.example.proiectandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "472784497397-6fvpe5qm49fgpmeu9ojpl3iubd9ctngj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3RDoK4c3daEGtfmw5VGHMHO-yxOpbYd0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "472784497397-6fvpe5qm49fgpmeu9ojpl3iubd9ctngj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
